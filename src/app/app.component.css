@@ -1,0 +1,13 @@
+.progress{
+  border-radius: 0;
+  background: #343a40;
+}
+.progress-bar{
+  transition: width 1s linear;
+}
+a[app-single-widget] {
+  float: left;
+  margin: 30px;
+  color: #000;
+  text-decoration: none;
+}

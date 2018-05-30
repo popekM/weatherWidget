@@ -1,0 +1,17 @@
+.card{
+  border: 0;
+}
+.card:hover{
+  background: rgb(26, 170, 144);
+  color: #fff;
+}
+.card-img-top{
+  background: rgb(26, 170, 144);
+  height: 200px;
+}
+.wi{
+  display: block;
+  font-size: 130px;
+  color: rgba(255, 255, 255, 0.5);
+  padding: 30px 70px;
+}
